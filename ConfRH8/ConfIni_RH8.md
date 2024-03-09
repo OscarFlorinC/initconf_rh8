@@ -129,20 +129,26 @@
 
 ## ***En la ventana de la terminal, inicia sesion como root:***
 
-### $ su -
+$ su -
 
 ## ***A continuación, registre su sistema con Red Hat Subscription Management:***
-### # subscription-manager register --auto-attach
+
+#subscription-manager register --auto-attach
 
 ## ***Introduzca su nombre de usuario y contraseña de Red Hat. Cuando se haya completado el registro, verás:***
-### Installed Product Current Status:
-### Product Name: Red Hat Enterprise Linux for x86_64
-### Status:       Subscribed
+Installed Product Current Status:
+
+Product Name: Red Hat Enterprise Linux for x86_64
+
+Status:       Subscribed
 
 ## ***Comprueba que ahora tienes los repositorios de BaseOS y AppStream habilitados con yum repolist***
 
-### # yum repolist
-### Updating Subscription Management repositories.
-### Red Hat Enterprise Linux 8 for x86_64 - AppStream (RPMs)
-### Red Hat Enterprise Linux 8 for x86_64 - BaseOS (RPMs)
+#yum repolist
+ 
+Updating Subscription Management repositories.
+
+Red Hat Enterprise Linux 8 for x86_64 - AppStream (RPMs)
+
+Red Hat Enterprise Linux 8 for x86_64 - BaseOS (RPMs)
 
