@@ -5,7 +5,7 @@
 ## **El propósito de este repositorio es enseñar a colaboradores, colegas y estudiantes, sobre la configuración inicial, del sistema operativo mas utilizado por las empresas**
 
 # ¿Por qué elegir Red Hat para Linux?
-## * Descripción general
+## Descripción general
 ### Todas las tecnologías de su pila de TI deben funcionar en conjunto. Y las cargas de trabajo deben ser portátiles y escalables a través de servidores básicos, máquinas virtuales, contenedores y nubes públicas y privadas. Necesitan un sistema operativo (SO) moderno y orientado a la seguridad. Ese sistema operativo es Red Hat® Enterprise Linux®.
 
 ### Red Hat es un socio de confianza para más del 90% de las empresas de Fortune 500, incluida Salesforce, que está  migrando su infraestructura completa de CentOS Linux a Red Hat Enterprise Linux . Red Hat Enterprise Linux es su base para la innovación y ofrece las últimas herramientas de desarrollo estable, tecnologías de contenedores, hardware y avances en la nube. Una suscripción a Red Hat Enterprise Linux le proporciona acceso directo y promoción dentro de la comunidad de código abierto. También se integra con miles de proveedores certificados de nube, software y hardware.
@@ -21,11 +21,11 @@
 ### [Red Hat Docs](https://www-redhat-com.translate.goog/en/topics/linux/why-choose-red-hat-enterprise-linux?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=rq#:~:text=With%20Red%20Hat%2C%20you%20get,safely%20use%20open%20source%20technology.)
 ### [RH8 Config](./ConfRH8/ConfIni_RH8.md)
 
-## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en follow.
+## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de follow.
 # ¡Muchas gracias, bienvenido!!!
 
 ## Contacto y apoyo:
 
 [![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
 <br>[![Just Eat](https://img.shields.io/badge/Donaciones_para_tacos_🌮🌮🌮-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
-<br>[![Eats](https://img.shields.io/badge/Donaciones_alimento_para_🐈🐈-black?style=for-the-badge&logo=uber-eats&logoColor=green)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)</br>
+<br>[![Eats](https://img.shields.io/badge/Donaciones_alimento_para_gatos🐈🐈-black?style=for-the-badge&logo=uber-eats&logoColor=green)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)</br>

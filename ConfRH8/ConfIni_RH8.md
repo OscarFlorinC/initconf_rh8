@@ -5,7 +5,7 @@
 
 ### [RH Dev](https://developers.redhat.com)
 
-### Capture la informacion requerida para crear su cuenta como developer
+### Capture la información requerida para crear su cuenta como developer
 
 <img src="../imagenes/2.-Count.png" width="300" height="600">
 
@@ -14,22 +14,22 @@
 <img src="../imagenes/3.-Count.png" width="400" height="300">
 
 ### Descargar el SO
-#### Capture la informacion requerida para descargar el SO
+#### Capture la información requerida para descargar el SO
 <img src="../imagenes/4.-Count.png" width="300" height="600">
 
-### Ir a la pag principal de Developers en la seccion de Featured products - ***Red Hat Enterprise Linux*** -  dar click en Explore
+### Ir a la pag principal de Developers en la sección de Featured products - ***Red Hat Enterprise Linux*** -  dar click en Explore
 ### [RH Dev](https://developers.redhat.com)
 <img src="../imagenes/5.-Desc.png" width="200" height="300">
 
 ### Dar click en Download/Sign Up
 <img src="../imagenes/6.-Desc.png" width="200" height="200">
 
-### Ir a la seccion de All Downloads - Red Hat Enterprise Linux 8.9.0 y descargar el SO
+### Ir a la sección de All Downloads - Red Hat Enterprise Linux 8.9.0 y descargar el iSO
 <img src="../imagenes/7.-Desc.png" width="200" height="200">
 
 
 
-# _Instalacion de RHEL 8 en VirtualBox_
+# _Instalación de RHEL 8 en VirtualBox_
 
 
 ### **Se necesita un sistema que cumpla con los siguientes requisitos:**
@@ -54,7 +54,7 @@
 
 <img src="https://lh4.googleusercontent.com/Pe-o1Q-kcTjQGpNk_g17Ipmkd4GQ_AoCIBF25OooIaWMi82S3hpiseLte7IsUCEndpA4GQhCyzUUjICTcw0jUBU6b9GFz4HlMKKGU_s6o7Y9rqa3O6BMEyg9W0wFfHnuXyK7638o" width="500" height="350">
 
-# _Instalacion_
+# _Instalación_
 
 ## 1. Arranca el instalador de RHEL 8
 
