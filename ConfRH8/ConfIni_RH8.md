@@ -22,7 +22,11 @@
 <img src="../imagenes/4.-Count.png" width="300" height="600">
 
 ### Ir a la pag principal de Developers en la sección de Featured products - ***Red Hat Enterprise Linux*** -  dar click en Explore
-### [RH Dev](https://developers.redhat.com)
+
+|  | Descripción |
+|-----:|---------------|
+| [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://developers.redhat.com) | ***Red Hat Developer*** |
+
 <img src="../imagenes/5.-Desc.png" width="200" height="300">
 
 ### Dar click en Download/Sign Up
