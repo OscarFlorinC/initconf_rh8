@@ -21,7 +21,7 @@
 |  | Descripción |
 |-----:|---------------|
 | [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www-redhat-com.translate.goog/en/topics/linux/why-choose-red-hat-enterprise-linux?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=rq#:~:text=With%20Red%20Hat%2C%20you%20get,safely%20use%20open%20source%20technology.) | ***Documentación oficial*** |
-| [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](../Conf_RedHat8/ConfRH8/ConfIni_RH8.md) | ***Configuración Básica RH8*** |
+| [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://github.com/OscarFlorinC/initconf_rh8/blob/main/ConfRH8/ConfIni_RH8.md) | ***Configuración Básica RH8*** |
 
 ## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
 ## ¡Muchas gracias, bienvenido!!!
