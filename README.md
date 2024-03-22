@@ -17,15 +17,18 @@
 
 ### Con Red Hat, obtiene acceso a los beneficios del código abierto para la empresa, como la innovación ascendente impulsada por la comunidad, brindada con soporte a nivel empresarial para ayudar a su organización a utilizar de forma segura la tecnología de código abierto.
 
+#
+|  | Descripción |
+|-----:|---------------|
+| [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www-redhat-com.translate.goog/en/topics/linux/why-choose-red-hat-enterprise-linux?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=rq#:~:text=With%20Red%20Hat%2C%20you%20get,safely%20use%20open%20source%20technology.) | ***Documentación oficial*** |
+| [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](../Conf_RedHat8/ConfRH8/ConfIni_RH8.md) | ***Configuración Básica RH8*** |
 
-### [Red Hat Docs](https://www-redhat-com.translate.goog/en/topics/linux/why-choose-red-hat-enterprise-linux?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=rq#:~:text=With%20Red%20Hat%2C%20you%20get,safely%20use%20open%20source%20technology.)
-### [RH8 Config](./ConfRH8/ConfIni_RH8.md)
-
-## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de follow.
-# ¡Muchas gracias, bienvenido!!!
+## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
+## ¡Muchas gracias, bienvenido!!!
 
 ## Contacto y apoyo:
 
-[![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
-<br>[![Just Eat](https://img.shields.io/badge/Donaciones_para_tacos_🌮🌮🌮-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
-<br>[![Eats](https://img.shields.io/badge/Donaciones_alimento_para_gatos🐈🐈-black?style=for-the-badge&logo=uber-eats&logoColor=green)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)</br>
+<br>[![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
+[![X](https://img.shields.io/badge/DevozzCloud-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/DevozzCloud)</br>
+[![Just_Eat](https://img.shields.io/badge/🌮_Donaciones_para_tacos-7A1FA2?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
+[![Eats](https://img.shields.io/badge/🐈_Donaciones_para_gatos-black?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)

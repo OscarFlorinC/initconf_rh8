@@ -3,7 +3,11 @@
 
 <img src="../imagenes/1.-Developer.png" width="500" height="300">
 
-### [RH Dev](https://developers.redhat.com)
+|  | Descripción |
+|-----:|---------------|
+| [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://developers.redhat.com) | ***Red Hat Developer*** |
+
+
 
 ### Capture la información requerida para crear su cuenta como developer
 
@@ -129,26 +133,31 @@
 
 ## ***En la ventana de la terminal, inicia sesion como root:***
 
-$ su -
+- $ su -
 
 ## ***A continuación, registre su sistema con Red Hat Subscription Management:***
 
-#subscription-manager register --auto-attach
+- #subscription-manager register --auto-attach
 
 ## ***Introduzca su nombre de usuario y contraseña de Red Hat. Cuando se haya completado el registro, verás:***
-Installed Product Current Status:
-
-Product Name: Red Hat Enterprise Linux for x86_64
-
-Status:       Subscribed
+- Installed Product Current Status:
+- Product Name: Red Hat Enterprise Linux for x86_64
+- Status:       Subscribed
 
 ## ***Comprueba que ahora tienes los repositorios de BaseOS y AppStream habilitados con yum repolist***
 
-#yum repolist
- 
-Updating Subscription Management repositories.
+- #yum repolist
+- Updating Subscription Management repositories.
+- Red Hat Enterprise Linux 8 for x86_64 - AppStream (RPMs)
+- Red Hat Enterprise Linux 8 for x86_64 - BaseOS (RPMs)
 
-Red Hat Enterprise Linux 8 for x86_64 - AppStream (RPMs)
 
-Red Hat Enterprise Linux 8 for x86_64 - BaseOS (RPMs)
+## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
+## ¡Muchas gracias, bienvenido!!!
 
+## Contacto y apoyo:
+
+<br>[![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
+[![X](https://img.shields.io/badge/DevozzCloud-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/DevozzCloud)</br>
+[![Just_Eat](https://img.shields.io/badge/🌮_Donaciones_para_tacos-7A1FA2?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
+[![Eats](https://img.shields.io/badge/🐈_Donaciones_para_gatos-black?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
