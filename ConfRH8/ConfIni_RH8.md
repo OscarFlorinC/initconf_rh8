@@ -127,7 +127,7 @@
 ### Cuando el sistema se reinicie, haga clic en Información de la licencia para aceptar el acuerdo de licencia. En la pantalla Información de la licencia, haga clic en Acepto el acuerdo de licencia debajo del texto de la licencia.
 <img src="https://developers.redhat.com/sites/default/files/85_rhel8_accept_license.png" width="500" height="350">
 
-# Instalacion Completa
+# Instalación Completa
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/RHEL_8_Desktop.png" width="500" height="350">
 
 # Registro del sistema desde la línea de comandos
