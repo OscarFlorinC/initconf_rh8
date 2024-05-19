@@ -135,7 +135,7 @@
 <img src="https://developers.redhat.com/sites/default/files/95_rhel8_terminal_start.png" width="600" height="500">
 
 
-## ***En la ventana de la terminal, inicia sesion como root:***
+## ***En la ventana de la terminal, inicia sesión como root:***
 
 - $ su -
 
